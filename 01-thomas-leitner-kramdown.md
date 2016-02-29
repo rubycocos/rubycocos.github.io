@@ -1,5 +1,7 @@
-Welcome to the Static Times Q&A series. Today let's welcome Thomas Leitner
-the head of the computer group of the mathematics department 
+Welcome to the Static Times Q&A series. 
+
+Today let's welcome Thomas Leitner. 
+Thomas is the head of the computer group of the mathematics department 
 of the University of Vienna (in Austria, Central Europe) 
 and better known as the author of the kramdown library and tool - a fast, markdown-superset processor (in ruby) 
 for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends).
