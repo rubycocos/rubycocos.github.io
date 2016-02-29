@@ -5,7 +5,7 @@ and better known as the author of the kramdown library and tool - a fast, markdo
 for converting plain old vanilla text into hypertext (powering GitHub Pages, Jekyll, and friends).
 
 
-Q: Can you tell us a little bit about yourself? How did you get started with Ruby?
+**Q: Can you tell us a little bit about yourself? How did you get started with Ruby?**
 
 A: Ever since my parents got a computer when I was in middle school I was
 fascinated by it. As this was pre-Internet (at least at the beginning)
@@ -21,8 +21,8 @@ Though not perfect, Ruby is nearly perfect, at least for me, and all
 the programming I do in my spare time is in Ruby nowadays.
 
 
-Q: Do you remember - how did you find out / get started with markdown?
-Did you try out any alternatives e.g. textile, wiki text, etc.?
+**Q: Do you remember - how did you find out / get started with markdown?
+Did you try out any alternatives e.g. textile, wiki text, etc.?**
 
 A: I was creating a static website generator, webgen, back in 2003 and
 didn't want to write the content in HTML. At first I used plain HTML
@@ -34,8 +34,8 @@ and it seemed a much better language for the purpose than Textile. So
 Textile was demoted and Markdown took the place as default markup
 language.
 
-Q: How (and why) did you get started / end up writing your own
-markdown converter, that is, kramdown?
+**Q: How (and why) did you get started / end up writing your own
+markdown converter, that is, kramdown?**
 
 A: Maruku, the Markdown conversion library written in pure Ruby that I
 used for webgen, wasn't maintained anymore and there still were many
@@ -55,7 +55,7 @@ I had the most important elements and the basic thing running, I put
 the code on Github and released it.
 
 
-Q: Can you tell us some challenges you faced writing kramdown?
+**Q: Can you tell us some challenges you faced writing kramdown?**
 
 A: Since Markdown doesn't have a real, formal specification, I had to pick
 and choose features and edge case implementations from the available
@@ -68,8 +68,8 @@ implement things in an ingenious way, like using meta programming and
 such. However, after you program a long time in Ruby you realize that
 most of the time you are better off avoiding these solutions.
 
-Q: Do you have any favorite markdown extensions e.g. todo
-lists, meta data, emojis, auto links, etc. - or worst?
+**Q: Do you have any favorite markdown extensions e.g. todo
+lists, meta data, emojis, auto links, etc. - or worst?**
 
 A: My favorite extension to the original Markdown are the inline attribute
 lists. These allow you to specify any attribute on any element, with
@@ -80,8 +80,8 @@ other libraries such as BlueCloth, and the main reason why kramdown
 came to be.
 
 
-Q: Any thoughts on adding / getting multi-line tables working in
-kramdown - works great in wiki text e.g. wikipedia or something ;-) ?
+**Q: Any thoughts on adding / getting multi-line tables working in
+kramdown - works great in wiki text e.g. wikipedia or something ;-) ?**
 
 
 A: Maybe in version 2.0 but one of the goals of Markdown is that it should
@@ -89,7 +89,7 @@ be easy to read and write. So if a syntax doesn't feel to be Markdown-y
 I probably won't include it.
 
 
-Q: What's next for kramdown? Any plans for 2.0?
+**Q: What's next for kramdown? Any plans for 2.0?**
 
 A: I consider kramdown a mature and stable library. If you read the
 release announcements you will find that there have been regular
