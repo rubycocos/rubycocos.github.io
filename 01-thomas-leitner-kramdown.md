@@ -121,8 +121,8 @@ Links / References:
 _kramdown & webgen_
 
 - [kramdown Project](http://kramdown.gettalong.org)
-- [webgen Project](http://webgen.gettalong.org)
 - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) talk slides (in HTML) from the Vienna.html meetup on Feb/23rd, 2016
+- [webgen Project](http://webgen.gettalong.org)
 
 _Markdown_
 
