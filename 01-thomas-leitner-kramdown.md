@@ -120,9 +120,9 @@ Links / References:
 
 _kramdown & webgen_
 
-- [kramdown Project](http://kramdown.gettalong.org)
-- [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) talk slides (in HTML) from the Vienna.html meetup on Feb/23rd, 2016
-- [webgen Project](http://webgen.gettalong.org)
+- [kramdown Project](http://kramdown.gettalong.org) - a fast markdown-superset converter in ruby (without any c-extensions)
+- [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) - talk slides (in HTML) from the Vienna.html meetup on Feb/23rd, 2016
+- [webgen Project](http://webgen.gettalong.org) - a static (web)site builder / generator in ruby
 
 _Markdown_
 
@@ -131,10 +131,10 @@ _Markdown_
 
 _Textile_
 
-- [Textile Project](https://github.com/textile)
+- [Textile Project](https://github.com/textile) - another plain text-style markup language
 - [Textile @ Wikipedia](https://en.wikipedia.org/wiki/Textile_(markup_language))
 
 _Miscellaneous_
 
-- ["Old" Maruku Project @ RubyForge](http://maruku.rubyforge.org)
-- ["Old" BlueCloth Project](http://deveiate.org/projects/BlueCloth)
+- ["Old" Maruku Project @ RubyForge](http://maruku.rubyforge.org) - a markdown-superset interpreter in ruby with inline attributes, tables, etc.
+- ["Old" BlueCloth Project](http://deveiate.org/projects/BlueCloth) - the first markdown library for rub (started as a direct port of the Markdown.pl script in perl)
