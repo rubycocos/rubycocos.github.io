@@ -128,3 +128,7 @@ _Markdown_
 - [Learn Markdown in 60 Seconds @ CommonMark](http://commonmark.org/help)
 - [Learn Markdown in 10 Minutes (Tutorial) @ CommonMark](http://commonmark.org/help/tutorial)
 
+_Miscellaneous_
+
+- [webgen Project Site](http://webgen.gettalong.org)
+- ["Old" Maruku Project Site @ RubyForge](http://maruku.rubyforge.org)
