@@ -118,9 +118,10 @@ Thanks for your time and answers and - of course - thanks for the great kramdown
 
 Links / References:
 
-_kramdown_
+_kramdown & webgen_
 
-- [kramdown Project Site](http://kramdown.gettalong.org)
+- [kramdown Project](http://kramdown.gettalong.org)
+- [webgen Project](http://webgen.gettalong.org)
 - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) talk slides (in HTML) from the Vienna.html meetup on Feb/23rd, 2016
 
 _Markdown_
@@ -130,11 +131,10 @@ _Markdown_
 
 _Textile_
 
-- [Textile Project Site](https://github.com/textile)
+- [Textile Project](https://github.com/textile)
 - [Textile @ Wikipedia](https://en.wikipedia.org/wiki/Textile_(markup_language))
 
 _Miscellaneous_
 
-- [webgen Project Site](http://webgen.gettalong.org)
-- ["Old" Maruku Project Site @ RubyForge](http://maruku.rubyforge.org)
-- [BlueCloth](http://deveiate.org/projects/BlueCloth)
+- ["Old" Maruku Project @ RubyForge](http://maruku.rubyforge.org)
+- ["Old" BlueCloth Project](http://deveiate.org/projects/BlueCloth)
