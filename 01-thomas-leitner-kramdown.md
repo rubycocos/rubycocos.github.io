@@ -132,7 +132,7 @@ _Markdown_
 _Textile_
 
 - [Textile Project](https://github.com/textile) - another plain text-style markup language
-- [Textile @ Wikipedia](https://en.wikipedia.org/wiki/Textile_(markup_language))
+- [Textile Article @ Wikipedia](https://en.wikipedia.org/wiki/Textile_(markup_language))
 
 _Miscellaneous_
 
