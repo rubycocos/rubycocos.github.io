@@ -111,13 +111,20 @@ However, there is no date set for when 2.0 will be released or even
 worked on. This depends on the amount of spare time I can dedicate to
 the development of kramdown.
 
-
+</>
 
 Thanks for your time and answers and - of course - thanks for the great kramdown library and tools!
 
 
 Links / References:
 
+_kramdown_
+
 - [kramdown Project Site](http://kramdown.gettalong.org)
 - [Using Markdown with the kramdown Library and Tools](http://talks.gettalong.org/2016-02-vienna-html) talk slides (in HTML) from the Vienna.html meetup on Feb/23rd, 2016
+
+_Markdown_
+
+- [Learn Markdown in 60 Seconds @ CommonMark](http://commonmark.org/help)
+- [Learn Markdown in 10 Minutes (Tutorial) @ CommonMark](http://commonmark.org/help/tutorial)
 
