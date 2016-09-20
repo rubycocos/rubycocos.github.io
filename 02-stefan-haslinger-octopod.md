@@ -1,8 +1,8 @@
 Welcome to the Static Times Q&A series. 
 
-Today let's welcome Stefan Haslinger - a free lancer and podcaster
-from Vienna (in Austria, Central Europe) 
-known as the author of octopod - the jekyll extension that lets you publish your own radio show.
+Today let's welcome Stefan Haslinger - a freelancer and podcaster
+from Vienna (in Austria, Central Europe) and author of octopod - a free jekyll extension (theme and tools) 
+that lets you publish your own radio show.
 
 
 **Q: Can you tell us a little bit about yourself? How did you get started with Podcasting?**
