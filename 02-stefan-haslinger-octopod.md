@@ -55,7 +55,7 @@ quite a lot in Python when I was a high school teacher back then.
 Podcasting extension (Octopod)?**
 
 A: Well, I haven't written the original Octopod setup and theme. I just picked it up from
-Arne Eilermann (aka. [@pattex](http://twitter.com/pattex)) in a rather
+Arne Eilermann (aka [@pattex](http://twitter.com/pattex)) in a rather
 unmaintained state this spring  when searching for something
 to host «Aua-Uff-Code!« with.
 I had written a full blown content management system with podcasting support before,
@@ -65,7 +65,7 @@ searched for a Jekyll plugin and found Octopod.
 I updated it to use the lasted version of all the components used, added
 some more (like the [Bootflat](http://bootflat.github.io/) theme) and
 started using it. I changed the code structure a little bit - it
-is now a one gem with an installer script to make setup a matter of a minute.
+is now a gem with an installer script to make setup a matter of a minute.
 
 
 **Q: Can you highlight some of the great Octopod features / goodies?**
