@@ -13,7 +13,7 @@ the Vienna University of Technology as science collaborator, then high school
 teacher, did IT administration and staff training at the local
 observatories in Vienna, taught as lecturer at a local college and worked 
 at a local stainless steel retailer in their IT-SAP
-department. Finally in 2011 I founded my own companywhere I have been
+department. Finally in 2011 I founded my own company where I have been
 coding web applications mostly in Ruby on Rails.
 If you're interested in details have a glance at my
 [curriculum vitae](https://www.informatom.com/cv/) or my [Informatom](https://informatom.com) company website.
