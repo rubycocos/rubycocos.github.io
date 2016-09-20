@@ -136,7 +136,7 @@ episode level).
 **Q: Can you highlight some Podcasts using Octopod? Any tips on getting started?**
 
 A: Besides the two ones mentioned above, Aua-Uff-Code and Layer8, I know of
-[Lieblings-Plätchen](http://lieblings-plaetzchen.com/), where Jana Wiese
+[Lieblings-Plätzchen](http://lieblings-plaetzchen.com/), where Jana Wiese
 interviews people on their favourite places. (Btw., she is also helping
 us a lot finding bugs and suggesting new improvements.)
 
