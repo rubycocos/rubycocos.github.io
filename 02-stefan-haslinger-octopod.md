@@ -13,7 +13,7 @@ the Vienna University of Technology as science collaborator, then high school
 teacher, did IT administration and staff training at the local
 observatories in Vienna, taught as lecturer at a local college and worked 
 at a local stainless steel retailer in their IT-SAP
-department. Finally in 2011 I founded my own company Informatom where I have been
+department. Finally in 2011 I founded my own companywhere I have been
 coding web applications mostly in Ruby on Rails.
 If you're interested in details have a glance at my
 [curriculum vitae](https://www.informatom.com/cv/) or my [Informatom](https://informatom.com) company website.
@@ -49,7 +49,7 @@ looked a little bit at Octopress - which seemed to be unmaintained then - and Mi
 I made my bets on Jekyll.
 I had to play also a little bit with Nikola but this was only a side
 project where all other folks where dedicated Python people. I did
-quite a lot in Python when I was a high school teacher back then.
+quite a lot in Python when I was a high school teacher.
 
 **Q: Jekyll and Podcasting - How (and why) did you get started / end up writing your own Jekyll
 Podcasting extension (Octopod)?**
@@ -70,7 +70,7 @@ is now a gem with an installer script to make setup a matter of a minute.
 
 **Q: Can you highlight some of the great Octopod features / goodies?**
 
-A: Ha - I'm lazy here and cite our own [Octopod website](https://jekyll-octopod.github.io) on Github:
+A: Ha - I'm lazy here and cite our own [Octopod website](https://jekyll-octopod.github.io):
 
 * iTunes-ready paged episode feeds for different file formats (e.g. mp3, ogg, m4a)
 * a ready to use Bootflat and Twitter Bootstrap-based, responsive (i.e. mobile friendly) layout modifiable to your heart's desire
@@ -92,7 +92,7 @@ Jekyll and Jekyll-Octopod itself.
 
 **Q: Can you tell us some challenges you faced writing / updating Octopod?**
 
-A: I wasn't familiar with Liquid so this was probably the biggest hurdle,
+A: I wasn't familiar with Liquid so this was probably the biggest hurdle
 as I assumed more similarities between Ruby and Liquid than there are.
 Liquid is the templating language used by Jekyll and it should make
 things easier for designers (but honestly I think it's the other way
@@ -120,7 +120,7 @@ Regarding new features: Currently Bootstrap and Bootflat are included as
 compiled static assets. We have a test setup where we have included
 them as SCSS and it works fine so far. That means that
 you can tweak the theme using the literally hundreds of configuration
-variables of Bootstrap and Bootflatt.
+variables of Bootstrap and Bootflat.
 This will make tweaking the look and feel of the site quick and easy.
 
 Depending on the future of Flattr we maybe have to support another
@@ -135,7 +135,8 @@ episode level).
 
 **Q: Can you highlight some Podcasts using Octopod?**
 
-A: Besides the two ones mentioned above «Aua-Uff-Code!» and «Layer8» I know of
+A: Besides the two ones mentioned above [«Aua-Uff-Code!»](https://aua-uff-co.de/) 
+and [«Layer8»](https://layer8.informatom.com/) I know of
 [«Lieblings-Plätzchen»](http://lieblings-plaetzchen.com/) where Jana Wiese
 interviews people on their favourite places. (Btw., she is also helping
 us a lot finding bugs and suggesting new improvements.)
@@ -173,5 +174,5 @@ Vienna.html!
 
 </>
 
-Thanks for your time and answers and - of course - thanks for the great octopod theme and tools!
+Thanks for your time and answers and - of course - thanks for the great Octopod theme and scripts!
 
