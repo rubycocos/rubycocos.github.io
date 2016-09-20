@@ -1,40 +1,42 @@
 Welcome to the Static Times Q&A series. 
 
 Today let's welcome Stefan Haslinger - a freelancer and podcaster
-from Vienna (in Austria, Central Europe) and author of octopod - a free jekyll extension (theme and tools) 
-that lets you publish your own radio show.
+from Vienna (in Austria, Central Europe) and author of Octopod - a free jekyll static (web)site builder extension 
+(theme and scripts) that lets you publish your own radio shows in minutes.
 
 
-**Q: Can you tell us a little bit about yourself? How did you get started with Podcasting?**
+**Q: Can you tell us a little bit about yourself?**
 
-A: Originally trained as high school teacher in physics and mathematics,
-I seem to switch jobs roughly every five years. I have been working at
-the University of Technology as science collaborator, then high school
+A: Originally trained as high school teacher in physics and mathematics
+I seem to switch jobs roughly every five years. I worked at
+the Vienna University of Technology as science collaborator, then high school
 teacher, did IT administration and staff training at the local
-observatories in Vienna, taught as lecturer at a local college and I've
-been working at a local stainless steel retailer in their IT-SAP
-department. Finally, in 2011, I founded my own company Informatom, in
-which I'm coding web applications, mostly in Ruby on Rails.
-If somebody is interested in details, you can have a glance at my
-[CV](https://www.informatom.com/cv/) or my Company Website
-[Informatom](https://informatom.com)
+observatories in Vienna, taught as lecturer at a local college and worked 
+at a local stainless steel retailer in their IT-SAP
+department. Finally in 2011 I founded my own company Informatom where I have been
+coding web applications mostly in Ruby on Rails.
+If you're interested in details have a glance at my
+[curriculum vitae](https://www.informatom.com/cv/) or my [Informatom](https://informatom.com) company website.
 
-I have been listening to podcasts for ages - I started with "The Linux
-Show", probably around 1998, when the term podcast was not even a thing.
-I started podcasting myself in August 2013 with [Layer
-8](https://layer8.informatom.com/) but didn't keep up to it for longer
+
+**Q: How did you get started with podcasting?**
+
+A: I have been listening to podcasts for ages - I started with «The Linux
+Show» probably around 1998 when the term podcast was not even a thing.
+I started podcasting in August 2013 with [«Layer
+8»](https://layer8.informatom.com/) but didn't keep up to it for longer
 than three episodes.
 
 I really got into podcasting again last year joining the
-[Biertaucher](http://biertaucher.at) regulars in Fall 2016 with their
-episode 225 and stayed with them until now. Biertaucher podcast is a
-Viennese nerd podcast, where everybody is allowed to join in at a public
-recording session. We will be recording episode 274 tomorrow, so I can
+[«Biertaucher»](http://biertaucher.at) regulars in fall 2015 with their
+episode #225 and have stayed with them until now. «Biertaucher» is a
+Viennese nerd podcast where everybody is allowed to join in at the public
+recording session. We will be recording episode #274 tomorrow so I can
 celebrate my 50th podcast with them soon.
 
-In march 2016, together with Anna Geiger, we started
-[Aua-Uff-Code!](https://aua-uff-co.de/), a podcast on coding and
-learning to code. We have 11 episodes recorded so far and we are still
+In march 2016 together with Anna Geiger we started
+[«Aua-Uff-Code!»](https://aua-uff-co.de/) - a podcast on coding and
+learning to code. We have recorded 11 episodes so far and we are still
 digging it!
 
 **Q: Do you remember - how did you find out/ get started with Jekyll?
