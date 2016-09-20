@@ -160,8 +160,8 @@ reaching page 11  :-).
 A: In case you visit or are already close to Vienna, Austria, you can find
 me at the local Ruby groups:
 
-* [Ruby Habits](https://www.meetup.com/de-DE/RubyHabits/)
-* [Vienna-rb](https://www.meetup.com/de-DE/vienna-rb/)
+* [Ruby Habits](https://meetup.com/RubyHabits)
+* [Vienna.rb](https://meetup.com/vienna-rb)
 
 And yes, I would like to pitch my new project
 [Panoptikum](https://www.panoptikum.io/), because it's a brand new
