@@ -43,8 +43,8 @@ Middleman, Nanoc, etc.?**
 
 A: Hm, it has probably been one of your (Gerald!) talks on Jekyll, where I
 really got interested in it. Github support drew me in, and after I
-looked a little bit at Octopress - which seemed to be unmaintained then
-- and Middleman, I made my bets on Jekyll.
+looked a little bit at Octopress - which seemed to be unmaintained then - and Middleman, 
+I made my bets on Jekyll.
 I had to play also a little bit with Nikola, but this was only a side
 project, where all other folks where dedicated Python people. I did
 quite a lot in Python, when I was a high school teacher back then.
@@ -69,7 +69,7 @@ actually a matter of one minute.
 
 **Q: Can you highlight some of the great Octopod features / goodies?**
 
-A: Ha - I'm lazy here and cite our own [Octopod Website](https://jekyll-octopod.github.io) on Github.
+A: Ha - I'm lazy here and cite our own [Octopod website](https://jekyll-octopod.github.io) on Github:
 
 * iTunes-ready paged episode feeds for different file formats (e.g. mp3, ogg, m4a)
 * a ready to use Bootflat and Twitter Bootstrap-based, responsive (i.e. mobile friendly) layout modifiable to your heart’s desire
@@ -85,7 +85,7 @@ A: Ha - I'm lazy here and cite our own [Octopod Website](https://jekyll-octopod.
 * Google search integration
 * Easy show notes creation
 
-Btw., the project website <https://jekyll-octopod.github.io/>
+Btw., the [Octopod website](https://jekyll-octopod.github.io)
 eats it's own dogfood, so it actually is a Github Pages site using
 Jekyll and Jekyll-Octopod itself.
 
