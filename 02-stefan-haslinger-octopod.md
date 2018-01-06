@@ -169,8 +169,7 @@ me at the local Ruby groups:
 And yes, I would like to pitch my new [Panoptikum](https://www.panoptikum.io/) project - it's a brand new
 podcast discovery and community site I'm building.
 
-Thanks for having me and keep up the good work on Static Times and
-Vienna.html!
+Thanks for having me and keep up the good work!
 
 </>
 
