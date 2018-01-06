@@ -1,4 +1,4 @@
-Welcome to the Static Times Q&A series. 
+Welcome to the Q&A series. 
 
 Today let's welcome Thomas Leitner. 
 Thomas is the head of the computer group of the mathematics department 
