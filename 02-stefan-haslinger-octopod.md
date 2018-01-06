@@ -1,4 +1,4 @@
-Welcome to the Static Times Q&A series. 
+Welcome to the Q&A series. 
 
 Today let's welcome Stefan Haslinger - a freelancer and podcaster
 from Vienna (in Austria, Central Europe) and author of Octopod - a free jekyll static (web)site builder extension 
