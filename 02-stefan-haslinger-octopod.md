@@ -161,10 +161,7 @@ reaching page 11  :-).
 **Q: Any else you want to tell the world / our readers?**
 
 A: In case you visit or are already close to Vienna, Austria, you can find
-me at the local Ruby groups:
-
-* [Ruby Habits](http://rubyhabits.github.io)
-* [Vienna.rb](http://vienna-rb.github.io)
+me at the local Ruby groups.
 
 And yes, I would like to pitch my new [Panoptikum](https://www.panoptikum.io) project - it's a brand new
 podcast discovery and community site I'm building.
